@@ -1,0 +1,40 @@
+{
+  "name": "minerva",
+  "version": "1.0.0",
+  "description": "Web based ebook management system",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-sass": "^4.11.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^23.6.0",
+    "webpack": "^4.27.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oiclid/minerva.git"
+  },
+  "keywords": [
+    "e-book",
+    "library"
+  ],
+  "author": "oiclid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oiclid/minerva/issues"
+  },
+  "homepage": "https://github.com/oiclid/minerva#readme"
+}
